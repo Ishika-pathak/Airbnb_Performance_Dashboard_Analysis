@@ -18,6 +18,7 @@ The objective is to understand how Airbnb listings perform across different mark
 # Dataset
 
 Source: Maven Analytics – Airbnb Listings and Reviews Dataset
+DOWNLOAD DATASET FROM HERE - https://mavenanalytics.io/data-playground/airbnb-listings-reviews
 
 The dataset is included in this repository and consists of two main CSV files:
 
